@@ -1,0 +1,12 @@
+# langgraph==0.2.53
+# langgraph-checkpoint==2.0.6
+# langgraph-sdk==0.1.36
+# langchain-community
+# langchain-openai
+
+langgraph
+langgraph-checkpoint
+langgraph-sdk
+langchain-community
+langchain-openai
+langgraph.checkpoint.sqlite
